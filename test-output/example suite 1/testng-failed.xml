@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [example suite 1]">
+  <test name="Regression suite 1(failed)">
+    <classes>
+      <class name="com.seleniumtraining.TC_Flight_Finder">
+        <methods>
+          <include name="loginValidateFlight_Finder"/>
+          <include name="browserLaunching"/>
+        </methods>
+      </class> <!-- com.seleniumtraining.TC_Flight_Finder -->
+    </classes>
+  </test> <!-- Regression suite 1(failed) -->
+</suite> <!-- Failed suite [example suite 1] -->
