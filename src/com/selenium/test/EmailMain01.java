@@ -43,7 +43,7 @@ public class EmailMain01
     static String port = "587";
     static String mailFrom = "bhargav.eswar3@gmail.com";
    // static String mailFrom = "Nandeeswara.Padala@prolifics.com";
-    static String password = "bhargav@#bob";
+    static String password = " ";
     //static String password = "1!Jkilabcd";
 
     static String message = "Pleae find the Report in the attached";
